@@ -11,22 +11,23 @@ We have published benchmarks for these models on https://leaderboard.tabbyml.com
 
 | Model ID | License |
 | -------- | ------- |
-| [StarCoder-1B](https://huggingface.co/bigcode/starcoderbase-1b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
-| [StarCoder-3B](https://huggingface.co/bigcode/starcoderbase-3b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
-| [StarCoder-7B](https://huggingface.co/bigcode/starcoderbase-7b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
-| [StarCoder2-3B](https://huggingface.co/bigcode/starcoder2-3b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
-| [StarCoder2-7B](https://huggingface.co/bigcode/starcoder2-7b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
-| [CodeLlama-7B](https://huggingface.co/codellama/CodeLlama-7b-hf) | [Llama 2](https://github.com/facebookresearch/llama/blob/main/LICENSE) |
-| [CodeLlama-13B](https://huggingface.co/codellama/CodeLlama-13b-hf) | [Llama 2](https://github.com/facebookresearch/llama/blob/main/LICENSE) |
-| [DeepseekCoder-1.3B](https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
-| [DeepseekCoder-6.7B](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
-| [CodeGemma-2B](https://huggingface.co/google/codegemma-2b) | [Gemma License](https://ai.google.dev/gemma/terms) |
-| [CodeGemma-7B](https://huggingface.co/google/codegemma-7b) | [Gemma License](https://ai.google.dev/gemma/terms) |
-| [CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
-| [Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
-| [Qwen2.5-Coder-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
-| [Codestral-22B](https://huggingface.co/mistralai/Codestral-22B-v0.1) | [Mistral AI Non-Production License](https://mistral.ai/licenses/MNPL-0.1.md) |
-| [DeepSeek-Coder-V2-Lite](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
+| [himankpathak/Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/StarCoder-1B](https://huggingface.co/bigcode/starcoderbase-1b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
+| [himankpathak/StarCoder-3B](https://huggingface.co/bigcode/starcoderbase-3b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
+| [himankpathak/StarCoder-7B](https://huggingface.co/bigcode/starcoderbase-7b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
+| [himankpathak/StarCoder2-3B](https://huggingface.co/bigcode/starcoder2-3b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
+| [himankpathak/StarCoder2-7B](https://huggingface.co/bigcode/starcoder2-7b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
+| [himankpathak/CodeLlama-7B](https://huggingface.co/codellama/CodeLlama-7b-hf) | [Llama 2](https://github.com/facebookresearch/llama/blob/main/LICENSE) |
+| [himankpathak/CodeLlama-13B](https://huggingface.co/codellama/CodeLlama-13b-hf) | [Llama 2](https://github.com/facebookresearch/llama/blob/main/LICENSE) |
+| [himankpathak/DeepseekCoder-1.3B](https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
+| [himankpathak/DeepseekCoder-6.7B](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
+| [himankpathak/CodeGemma-2B](https://huggingface.co/google/codegemma-2b) | [Gemma License](https://ai.google.dev/gemma/terms) |
+| [himankpathak/CodeGemma-7B](https://huggingface.co/google/codegemma-7b) | [Gemma License](https://ai.google.dev/gemma/terms) |
+| [himankpathak/CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
+| [himankpathak/Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/Qwen2.5-Coder-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/Codestral-22B](https://huggingface.co/mistralai/Codestral-22B-v0.1) | [Mistral AI Non-Production License](https://mistral.ai/licenses/MNPL-0.1.md) |
+| [himankpathak/DeepSeek-Coder-V2-Lite](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base) | [Deepseek License](https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL) |
 
 
 ## Chat models (`--chat-model`)
@@ -35,19 +36,20 @@ To ensure optimal response quality, and given that latency requirements are not 
 
 | Model ID | License |
 | -------- | ------- |
-| [Mistral-7B](https://huggingface.co/mistralai/Mistral-7B-v0.1) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
-| [CodeGemma-7B-Instruct](https://huggingface.co/google/codegemma-7b-it) | [Gemma License](https://ai.google.dev/gemma/terms) |
-| [CodeQwen-7B-Chat](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
-| [Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
-| [Qwen2.5-Coder-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
-| [Qwen2-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2-1.5B) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
-| [Codestral-22B](https://huggingface.co/mistralai/Codestral-22B-v0.1) | [Mistral AI Non-Production License](https://mistral.ai/licenses/MNPL-0.1.md) |
-| [Yi-Coder-9B-Chat](https://huggingface.co/01-ai/Yi-Coder-9B-Chat) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/Qwen2.5-3B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/Mistral-7B](https://huggingface.co/mistralai/Mistral-7B-v0.1) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/CodeGemma-7B-Instruct](https://huggingface.co/google/codegemma-7b-it) | [Gemma License](https://ai.google.dev/gemma/terms) |
+| [himankpathak/CodeQwen-7B-Chat](https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat) | [Tongyi Qianwen License](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT) |
+| [himankpathak/Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/Qwen2.5-Coder-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/Qwen2-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2-1.5B) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/Codestral-22B](https://huggingface.co/mistralai/Codestral-22B-v0.1) | [Mistral AI Non-Production License](https://mistral.ai/licenses/MNPL-0.1.md) |
+| [himankpathak/Yi-Coder-9B-Chat](https://huggingface.co/01-ai/Yi-Coder-9B-Chat) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
 
 
 ## Embedding models
 
 | Model ID | License |
 | -------- | ------- |
-| [Nomic-Embed-Text](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
-| [Jina-Embeddings-V2-Code](https://huggingface.co/jinaai/jina-embeddings-v2-base-code) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/Nomic-Embed-Text](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5-GGUF) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
+| [himankpathak/Jina-Embeddings-V2-Code](https://huggingface.co/jinaai/jina-embeddings-v2-base-code) | [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) |
